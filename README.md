@@ -1,7 +1,7 @@
 # AppPresupuesto
 
 
-[!cap1][https://github.com/AlfredoSV/app-presupuesto-angular/blob/main/captures/cap1.png]
+![cap1](https://github.com/AlfredoSV/app-presupuesto-angular/blob/main/captures/cap1.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
